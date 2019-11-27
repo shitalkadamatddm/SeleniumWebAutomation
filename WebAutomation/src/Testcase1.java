@@ -1,9 +1,19 @@
 
 public class Testcase1 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void ExecutePrint() 
+	{
+		System.out.println("Testcase 1 is well written");
+	
 	}
-
+	
+	public String ReturingString()
+	{
+		return "Great going"; 
+	}
+	
+	public int ReturnInteger()
+	{
+		return 20 ;
+	}
 }
